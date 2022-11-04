@@ -16,9 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@playground/ark": ["libs/ark/src/index.ts"],
-      "@playground/ark-rxjs": ["libs/ark-rxjs/src/index.ts"],
-      "@playground/ark-usignal": ["libs/ark-usignal/src/index.ts"],
-      "@playground/rxjs-autorun": ["libs/rxjs-autorun/src/index.ts"]
+      "@playground/ark-usignal": ["libs/ark-usignal/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

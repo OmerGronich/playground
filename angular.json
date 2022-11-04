@@ -2,7 +2,11 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
-    "playground": "apps/playground",
-    "playground-e2e": "apps/playground-e2e"
+    "ark": "libs/ark",
+    "ark-rxjs": "libs/ark-rxjs",
+    "ark-usignal": "libs/ark-usignal",
+    "example-rxjs": "apps/example-rxjs",
+    "example-usignal": "apps/example-usignal",
+    "rxjs-autorun": "libs/rxjs-autorun"
   }
 }
